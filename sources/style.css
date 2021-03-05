@@ -46,6 +46,15 @@
 	color: #949494;
 }
 
+
+#articoli {
+	text-decoration: none;
+	font-size: 150%;
+	font-family: 'Liberation', monospace;
+	color: #949494;
+}
+
+
 /**
  * Panello latearle autouscente con navigazione
  * che esce al clic da sinistra
